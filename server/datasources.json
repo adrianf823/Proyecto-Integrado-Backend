@@ -1,6 +1,7 @@
 {
   "db": {
     "url": "mongodb+srv://user:1234@cluster0-qjvsr.mongodb.net/test?retryWrites=true&w=majority",
+    "name": "db",
     "connector": "loopback-connector-mongodb"
-}
+  }
 }

@@ -1,0 +1,39 @@
+{
+  "name": "Usuario",
+  "base": "User",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "id": {
+      "type": "string",
+      "required": true
+    },
+    "Nombre": {
+      "type": "string"
+    },
+    "Instructor": {
+      "type": "string"
+    },
+    "Colaborador": {
+      "type": "string"
+    },
+    "FechaCreacion": {
+      "type": "date"
+    },
+    "CicloFormativo": {
+      "type": "string"
+    },
+    "ModContrato": {
+      "type": "string"
+    },
+    "Rol": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
