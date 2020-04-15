@@ -42,5 +42,9 @@
   "tareas": {
     "dataSource": "db",
     "public": true
+  },
+  "container": {
+    "dataSource": "files-local",
+    "public": true
   }
 }
