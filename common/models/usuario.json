@@ -13,6 +13,9 @@
     "Nombre": {
       "type": "string"
     },
+    "Apellido": {
+      "type": "string"
+    },
     "Instructor": {
       "type": "string"
     },
