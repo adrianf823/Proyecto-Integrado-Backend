@@ -19,6 +19,18 @@
     "Instructor": {
       "type": "string"
     },
+    "Dni": {
+      "type": "string"
+    },
+    "Telefono": {
+      "type": "string"
+    },
+    "Cp": {
+      "type": "string"
+    },
+    "Direccion": {
+      "type": "string"
+    },
     "Colaborador": {
       "type": "string"
     },
