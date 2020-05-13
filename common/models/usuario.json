@@ -40,6 +40,9 @@
     "CicloFormativo": {
       "type": "string"
     },
+    "PlantillaCiclo": {
+      "type": "object"
+    },
     "ModContrato": {
       "type": "string"
     },
