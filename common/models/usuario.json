@@ -37,6 +37,12 @@
     "FechaCreacion": {
       "type": "string"
     },
+    "Ciudad": {
+      "type": "string"
+    },
+    "Provincia": {
+      "type": "string"
+    },
     "CicloFormativo": {
       "type": "string"
     },
