@@ -1,0 +1,32 @@
+{
+  "name": "Empresas",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "Nombre": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    },
+    "tutorEmpresa": {
+      "type": "string"
+    },
+    "direccion": {
+      "type": "string"
+    },
+    "telefono": {
+      "type": "number"
+    },
+    "email": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
