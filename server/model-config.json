@@ -50,5 +50,9 @@
   "CiclosF": {
     "dataSource": "db",
     "public": true
+  },
+  "Empresas": {
+    "dataSource": "db",
+    "public": true
   }
 }
