@@ -43,6 +43,9 @@
     "Provincia": {
       "type": "string"
     },
+    "Foto": {
+      "type": "string"
+    },
     "CicloFormativo": {
       "type": "string"
     },
