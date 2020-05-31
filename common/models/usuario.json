@@ -57,6 +57,9 @@
     },
     "Rol": {
       "type": "string"
+    },
+    "TipoEvaluaciones": {
+      "type": "onject"
     }
   },
   "validations": [],
