@@ -54,9 +54,5 @@
   "Empresas": {
     "dataSource": "db",
     "public": true
-  },
-  "TipoEvaluaciones": {
-    "dataSource": "db",
-    "public": true
   }
 }
