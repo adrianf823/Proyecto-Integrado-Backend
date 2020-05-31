@@ -59,7 +59,7 @@
       "type": "string"
     },
     "TipoEvaluaciones": {
-      "type": "onject"
+      "type": "object"
     }
   },
   "validations": [],
