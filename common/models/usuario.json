@@ -59,7 +59,9 @@
       "type": "string"
     },
     "TipoEvaluaciones": {
-      "type": "object"
+      "type": [
+        "object"
+      ]
     }
   },
   "validations": [],
