@@ -60,7 +60,7 @@
     },
     "TipoEvaluaciones": {
       "type": [
-        "object"
+        "string"
       ]
     }
   },
