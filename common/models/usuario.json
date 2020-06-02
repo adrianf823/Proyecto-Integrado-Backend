@@ -58,6 +58,9 @@
     "Rol": {
       "type": "string"
     },
+    "Empresa": {
+      "type": "string"
+    },
     "TipoEvaluaciones": {
       "type": [
         "string"
