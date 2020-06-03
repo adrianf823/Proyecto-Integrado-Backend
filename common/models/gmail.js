@@ -6,8 +6,8 @@ module.exports = function(Gmail) {
           to: dest,
           from: 'pruebaenviogm@gmail.com',
           subject: 'Contraseña DualApp',
-          text: 'La contraseña que le a sido asignada es: '+pass,
-          html: 'La contraseña que le a sido asignada es: '+pass
+          text: 'La contraseña que le ha sido asignada es: '+pass,
+          html: 'La contraseña que le ha sido asignada es: '+pass
         }, function(err, mail) {
           console.log('email sent!');
           cb(err);
