@@ -2,7 +2,7 @@
 
 module.exports = function(Gmail) {
     Gmail.sendEmail = function(dest,pass,cb) {
-        MyModel.app.models.Email.send({
+        Gmail.app.models.Email.send({
           to: dest,
           from: 'pruebaenviogm@gmail.com',
           subject: 'Contraseña DualApp',
