@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = function(Gmail) {
-    MyModel.sendEmail = function(dest,pass,cb) {
+    Gmail.sendEmail = function(dest,pass,cb) {
         MyModel.app.models.Email.send({
           to: dest,
           from: 'pruebaenviogm@gmail.com',
