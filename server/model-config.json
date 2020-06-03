@@ -50,5 +50,9 @@
   "Empresas": {
     "dataSource": "db",
     "public": true
+  },
+  "Gmail": {
+    "dataSource": "email",
+    "public": true
   }
 }
